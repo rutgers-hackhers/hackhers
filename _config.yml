@@ -1,17 +1,17 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Hackhers
+email: rutgers.hackhers@gmail.com
+description: "Hackhers is organized for women. At this hackathon, women and men will get involved in learning, planning and developing apps that will foster growth and productivity among women who want to code."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary:  6e256e  #80B3FF
+  secondary:  609732 #FD6E8A
+  secondary-dark: aaa039 #A2122F
   
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  #copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
@@ -21,18 +21,13 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/groups/RutgersWCS/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Busch Campus Center
+  - line: 604 Bartholomew Road
+  - line: Piscataway, NJ 08854
   
 # Credits content
 credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
