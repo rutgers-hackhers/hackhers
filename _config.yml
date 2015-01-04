@@ -5,9 +5,9 @@ description: "Hackhers is organized for women. At this hackathon, women and men 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary:  6e256e  #80B3FF
-  secondary:  609732 #FD6E8A
-  secondary-dark: aaa039 #A2122F
+  primary:  66ccff #80B3FF
+  secondary:  6e256e #609732 #FD6E8A #66ccff
+  secondary-dark: #A2122F
   
 # Footer settings
 footer:
