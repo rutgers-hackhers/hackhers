@@ -7,7 +7,7 @@ description: "Hackhers is organized for women. At this hackathon, women and men 
 color:
   primary:  66ccff #80B3FF
   secondary:  6e256e #609732 #FD6E8A #66ccff
-  secondary-dark: #A2122F
+  secondary-dark: 66ccff #A2122F
   
 # Footer settings
 footer:
