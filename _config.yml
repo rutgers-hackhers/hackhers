@@ -9,6 +9,7 @@ color:
   secondary:  721794 #6e256e #609732 #FD6E8A #66ccff
   secondary-dark: 66ccff #A2122F
   
+
 # Footer settings
 footer:
   #copyright: Dr. Henry Jekyll
@@ -28,10 +29,7 @@ address:
   - line: Busch Campus Center
   - line: 604 Bartholomew Road
   - line: Piscataway, NJ 08854
-  
-# Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-# Build settings
+ # Build settings
 markdown: kramdown
 permalink: pretty
